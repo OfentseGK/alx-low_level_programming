@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.ho>
+#include <stdio.h>
 /**
  * main - print a random number
  * Return: 0
